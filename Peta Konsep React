@@ -1,0 +1,50 @@
+-Peta Konsep Tech Stack Front-End: React-
+
+1. Komponen dari Tech Stack Front-End: React
+- Bahasa Pemrograman: JavaScript, TypeScript
+- Framework: React
+- State Management: Redux, Zustand, React Context
+- Routing: React Router
+- Styling: CSS, Sass, Styled Components, Tailwind CSS
+- API Handling: Axios, Fetch API
+- Testing: Jest, React Testing Library
+- Build Tools: Webpack, Vite
+
+2. Kelebihan dan Kekurangan Tech Stack Front-End: React
+
+A. Kelebihan
+- Reusable Components
+- Memiliki Virtual DOM yang meningkatkan performa
+- Dukungan komunitas besar
+- Pembuatan Aplikasi Web Dinamis yang lebih mudah
+- Ekosistem library yang luas
+- SEO-friendly dengan Next.js
+
+B. Kekurangan
+- Ketiadaan standar dalam Pengembangan Aplikasi
+- Kurva pembelajaran cukup tinggi untuk pemula
+- Boilerplate kode pada state management seperti Redux
+- Dokumentasi beberapa library tidak selalu konsisten
+- Diperlukannya pemahaman mendalam tentang JavaScript untuk menangani skenario tertentu
+
+3. Tren Perkembangan Tech Stack di Tahun 2025
+- Peningkatan popularitas Server Components
+- Adopsi lebih luas TypeScript sebagai standar
+- Penggunaan React Concurrent Mode untuk performa lebih baik
+- Integrasi otomatis dengan AI-powered tools
+- Perkembangan lebih lanjut pada React Native untuk aplikasi lintas platform
+
+4. Contoh Perusahaan/Web yang Menggunakan Tech Stack Tersebut
+- Facebook (Meta)
+- Instagram
+- Netflix
+- Airbnb
+- Shopify
+- BBC
+
+5. Sumber Data
+- https://react.dev
+- https://redux.js.org
+- https://tailwindcss.com
+- https://axios-http.com
+- https://www.statista.com
