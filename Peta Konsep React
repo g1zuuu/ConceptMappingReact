@@ -30,14 +30,23 @@ B. Kekurangan
 3. Tren Perkembangan Tech Stack di Tahun 2025
 - Peningkatan popularitas Server Components
 - Adopsi lebih luas TypeScript sebagai standar
+- Komputasi kuantum mulai dieksplorasi dalam pengembangan React
+- Komputasi tepi meningkatkan efisiensi dengan pemrosesan data lebih dekat ke sumbernya
 - Penggunaan React Concurrent Mode untuk performa lebih baik
 - Integrasi otomatis dengan AI-powered tools
 - Perkembangan lebih lanjut pada React Native untuk aplikasi lintas platform
+= React Native semakin populer untuk aplikasi seluler lintas platform.
+= WebAssembly meningkatkan kinerja React dengan eksekusi kode dari C/C++.
+- Dipermudahkannya pengembangan AR/VR yang lebih imersif melalui React 360
+- Fitur real-time dioptimalkan untuk pembaruan langsung dan kolaborasi
+- Web 3.0 mendorong React dalam aplikasi desentralisasi berbasis blockchain.
+- Jamstack mempercepat dan mengamankan pengembangan aplikasi React
 
 4. Contoh Perusahaan/Web yang Menggunakan Tech Stack Tersebut
 - Facebook (Meta)
 - Instagram
 - Netflix
+- DropBox
 - Airbnb
 - Shopify
 - BBC
@@ -48,3 +57,8 @@ B. Kekurangan
 - https://tailwindcss.com
 - https://axios-http.com
 - https://www.statista.com
+- https://graffersid.com/react-js-trends/
+- https://www.w3schools.blog/advantages-disadvantages-reactjs
+- https://www.tutorialspoint.com/reactjs/reactjs_advantages_and_disadvantages.htm
+
+
