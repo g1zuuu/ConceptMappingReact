@@ -1,2 +1,2 @@
 # ConceptMappingReact
-This repository is made for the assignment given in the Basic Web Programming Class in Institut Teknologi &amp; Bisnis Sabda Setia
+This repository was created for an assignment in the Basic Web Programming class at Institut Teknologi & Bisnis Sabda Setia.
