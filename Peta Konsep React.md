@@ -1,4 +1,5 @@
 -Peta Konsep Tech Stack Front-End: React-
+Geady, Stevven Berlin, Van Persie Ferdinand
 
 1. Komponen dari Tech Stack Front-End: React
 - Bahasa Pemrograman: JavaScript, TypeScript
